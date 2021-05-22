@@ -23,4 +23,3 @@ if (hora < 12) {
   document.body.style.background = "#143840";
   document.body.style.color = "#143840";
 }
-console.log(minuto);
